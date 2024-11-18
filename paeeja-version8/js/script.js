@@ -16,3 +16,5 @@ var swiper = new Swiper(".mySwiper", {
     disableOnInteraction: false,
   },
 });
+
+console.log("Oi");
